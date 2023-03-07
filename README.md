@@ -1,54 +1,74 @@
-# Olá, esse é meu perfil
+<h2 align="left">Olá, me chamo Guilherme e esse é meu perfil...</h2>
 
+###
 
-## Sobre
+<p align="left">Sou Desenvolvedor Full Stack, buscando sempre maneiras de evoluir para poder encontrar maneiras de entregar os melhores resultados com a maior eficiência para os usuários. Gosto de organizar e buscar maneiras de realizar tarefas da melhor forma possível seguindo métodos e os adaptando para a situação.<br><br>Tenho experiencia criando API’s utilizando JavaScript com NodeJS, tendo modelado o banco de dados utilizando SQL e me aprofundando em migration, além da criação de páginas tanto com ReactJS quanto com HTML e CSS puros, já tendo realizando deploys das soluções desenvolvidas. Utilizando Low-code já desenvolvi alguns sistemas utilizando OutSystems, com consumos de API’s externas, modulação das funções e lógicas de programação elaboradas nas atividades da plataforma.<br><br>Tenho interesse em atuar como Desenvolvedor Fullstack, com interesse em resolução de problemas e busca por melhorias para o funcionamento das plataformas/sistemas.</p>
 
-Me chamo Guilherme, no momento sou estudando da Cubos Academy para me tornar Desenvolvedor Web Fullstack, entrei no curso após decidir ingressar em uma transição de carreira para me apronfundar no que havia conhecido e me atraido durante meu estágio em engenharia.
+###
 
-## Habilidades
+<h3 align="left">Habilidades</h3>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![CSS](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitehttps://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![React](	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Insomia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
-![WebToken](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![NodeJs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![RouterDom](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
-)
+###
 
-![imagem](https://github-readme-stats.vercel.app/api/top-langs/?username=Guivaz1993)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Guivaz1993" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Guivaz1993" height="150" alt="languages graph"  />
+</div>
 
-## Projetos
-- Hackthon da FCamara durante o Processo seletivo para o programa de formação
+###
 
-link: https://github.com/Guivaz1993/hackthon
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="30" width="42" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" width="42" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"  />
+</div>
 
-- ProviHack do agora
+###
 
-link: https://github.com/Guivaz1993/provihack-equipe-12
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Guivaz1993/count.svg?"  />
+</div>
 
-- Estudos Cubos
+###
 
-link: https://github.com/Guivaz1993/estudosCubos
+<h3 align="left">Contatos</h3>
 
-![imagem](https://github-readme-stats.vercel.app/api?username=Guivaz1993)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Guivaz1993)
+###
 
-## Contatos
+<div align="left">
+  <a href="Guilherme Vaz#2079" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="guivaz1993@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/guilherme-s-vaz/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
+###
 
- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) : guivaz1993@gmail.com
- 
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-s-vaz/)
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/Guivaz1993/Guivaz1993/blob/output/snake.svg" alt="Snake animation" />
 
+###
 
+<h3 align="left">Projetos</h3>
+
+###
+
+<p align="left">Hackthon da FCamara durante o Processo seletivo para o programa de formação<br>link: https://github.com/Guivaz1993/hackthon<br><br>ProviHack do agora<br>link: https://github.com/Guivaz1993/provihack-equipe-12<br><br>Estudos Cubos<br>link: https://github.com/Guivaz1993/estudosCubos</p>
+
+###
