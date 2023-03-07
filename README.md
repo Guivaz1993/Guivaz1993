@@ -45,16 +45,23 @@
 
 ###
 
-<div align="left">
+<div align="left" >
   <a href="Guilherme Vaz#2079" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
+      </a>
+    Guilherme Vaz#2079
+</div>
+<div align="left" >
   <a href="guivaz1993@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+  guivaz1993@gmail.com
+  </div>
+  <div align="left">
   <a href="https://www.linkedin.com/in/guilherme-s-vaz/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  https://www.linkedin.com/in/guilherme-s-vaz/
 </div>
 
 ###
