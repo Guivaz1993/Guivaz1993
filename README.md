@@ -68,7 +68,7 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Guivaz1993/Guivaz1993/blob/output/github-contribution-grid-snake.svg)
 <img src="https://raw.githubusercontent.com/Guivaz1993/Guivaz1993/blob/output/snake.svg" alt="Snake animation" />
 
 ###
