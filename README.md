@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou Desenvolvedor Full Stack, buscando sempre maneiras de evoluir para poder encontrar maneiras de entregar os melhores resultados com a maior eficiência para os usuários. Gosto de organizar e buscar maneiras de realizar tarefas da melhor forma possível seguindo métodos e os adaptando para a situação.<br><br>Tenho experiencia criando API’s utilizando JavaScript com NodeJS, tendo modelado o banco de dados utilizando SQL e me aprofundando em migration, além da criação de páginas tanto com ReactJS quanto com HTML e CSS puros, já tendo realizando deploys das soluções desenvolvidas. Utilizando Low-code já desenvolvi alguns sistemas utilizando OutSystems, com consumos de API’s externas, modulação das funções e lógicas de programação elaboradas nas atividades da plataforma.<br><br>Tenho interesse em atuar como Desenvolvedor Fullstack, com interesse em resolução de problemas e busca por melhorias para o funcionamento das plataformas/sistemas.</p>
+<p align="left">Sou Desenvolvedor Full Stack, hoje trabalhando com Java e mais focado no Backend com o consumo de API e consulta em view's de diferentes banco de dados para a utilização das informações na plataforma da startup de educação que trablho. buscando sempre maneiras de evoluir para poder encontrar maneiras de entregar os melhores resultados com a maior eficiência para os usuários. Gosto de organizar e buscar maneiras de realizar tarefas da melhor forma possível seguindo métodos e os adaptando para a situação.<br><br>Tenho experiencia criando API’s utilizando JavaScript com NodeJS, tendo modelado o banco de dados utilizando SQL e me aprofundando em migration, além da criação de páginas tanto com ReactJS quanto com HTML e CSS puros, já tendo realizando deploys das soluções desenvolvidas. Utilizando Low-code já desenvolvi alguns sistemas utilizando OutSystems, com consumos de API’s externas, modulação das funções e lógicas de programação elaboradas nas atividades da plataforma.<br><br>Atualmente, estou trabalhando com Java em uma startup da área de educação, focando principalmente no backend. Minhas principais responsabilidades incluem consumir APIs e realizar consultas em diferentes bancos de dados para utilizar esses dados em nossa plataforma.</p>
 
 ###
 
@@ -20,6 +20,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="30" width="42" alt="nestjs logo"  />
